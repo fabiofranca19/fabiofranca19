@@ -4,8 +4,6 @@
 <h2> Sobre mim </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 Atualmente estou trabalhando na [Invillia](https://invillia.ai/ai-intelligence/)
   
 - 🌱 Estou estudando atualmente SwiftUI, AVFoundation e Clean Architecture.
   
